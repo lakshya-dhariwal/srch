@@ -1,0 +1,32 @@
+{
+  "name": "srch",
+  "version": "1.0.0",
+  "description": "search from the terminal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshya-dhariwal/srch.git"
+  },
+  "keywords": [
+    "search",
+    "terminal",
+    "cli",
+    "google",
+    "stackoverflow",
+    "reddit",
+    "github",
+    "youtube"
+  ],
+  "author": "lakshya-dhariwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshya-dhariwal/srch/issues"
+  },
+  "homepage": "https://github.com/lakshya-dhariwal/srch#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
