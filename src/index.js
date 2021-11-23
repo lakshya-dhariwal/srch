@@ -11,7 +11,7 @@ inquirer
     },
     {
       type: "text",
-      message: "Search Query",
+      message: "Search Query:",
       name: "query",
     },
   ])
