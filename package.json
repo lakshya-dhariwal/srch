@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/lakshya-dhariwal/srch#readme",
   "dependencies": {
-    "inquirer": "^8.2.0"
+    "inquirer": "^8.2.0",
+    "open": "^8.4.0"
   }
 }
